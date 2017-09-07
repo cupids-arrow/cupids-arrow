@@ -1,0 +1,33 @@
+.align-center {
+    text-align: center;
+}
+
+.margin-top-200 {
+    margin-top: 2em;
+}
+
+#it-all-begins-here .jumbotron {
+    margin-top: 12em;
+}
+
+#honest-page .jumbotron {
+    margin-top: 2em;
+}
+
+#judgement-day > div {
+    clear: both;
+}
+
+.container {
+    margin-bottom: 5em;
+    margin-top: 2em;
+}
+
+.danger {
+    color: red;
+}
+
+hr {
+    color: black;
+    height: 5px;
+}
